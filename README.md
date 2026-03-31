@@ -1,3 +1,5 @@
+![Workflow](images/download.png)
+
 # rdkit-tips-and-tricks
 topic: presentation of molecules
 In this topic, I am presenting the most used approaches to molecule presentation 
